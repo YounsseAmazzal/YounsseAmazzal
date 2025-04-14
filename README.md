@@ -104,10 +104,10 @@ graph TD
 
 📂 Projects
 <td width="50%">
-  <h3 align="center">Electric Power Consumption Analysis</h3>
+  <h3 align="center">Electric Power Consumption Analysis ⚡</h3>
   <div align="center">
     <a href="https://github.com/YounsseAmazzal/Electric-Power-Consumption-Analysis" target="_blank">
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YounsseAmazzal&repo=Electric-Power-Consumption-Analysis&theme=react&border_color=61dafb&border_radius=10" alt="Electric Power Consumption Analysis" />
+      <img src="https://github.com/YounsseAmazzal/Electric-Power-Consumption-Analysis/blob/main/electricity.jpg?raw=true" width="100%" alt="High Voltage Tower" />
     </a>
     <br/><br/>
     <a href="https://github.com/YounsseAmazzal/Electric-Power-Consumption-Analysis" target="_blank">
@@ -115,9 +115,10 @@ graph TD
     </a>
   </div>
   <p align="center">
-    Exploratory Data Analysis on electricity consumption and weather data using Pandas, Seaborn, and Matplotlib.
+    Analyzing power consumption based on weather conditions.
   </p>
 </td>
+
 
 
 ## 🤝 Let's Connect!
