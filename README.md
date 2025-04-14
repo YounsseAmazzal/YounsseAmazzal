@@ -102,12 +102,23 @@ graph TD
   </a>
 </div>
 
-## 📈 GitHub Stats
+📂 Projects
+<td width="50%">
+  <h3 align="center">Electric Power Consumption Analysis</h3>
+  <div align="center">
+    <a href="https://github.com/YounsseAmazzal/Electric-Power-Consumption-Analysis" target="_blank">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YounsseAmazzal&repo=Electric-Power-Consumption-Analysis&theme=react&border_color=61dafb&border_radius=10" alt="Electric Power Consumption Analysis" />
+    </a>
+    <br/><br/>
+    <a href="https://github.com/YounsseAmazzal/Electric-Power-Consumption-Analysis" target="_blank">
+      <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
+    </a>
+  </div>
+  <p align="center">
+    Exploratory Data Analysis on electricity consumption and weather data using Pandas, Seaborn, and Matplotlib.
+  </p>
+</td>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" height="170"/>
-</div>
 
 ## 🤝 Let's Connect!
 
